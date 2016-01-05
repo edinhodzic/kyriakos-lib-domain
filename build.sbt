@@ -13,3 +13,5 @@ lazy val otrlLibraryDomain = project.in(file("."))
 libraryDependencies ++= Seq(
   "org.scala-lang" % "scala-library" % "2.11.7"
 )
+
+publishTo := Some("OTRL" at "https://mvn.otrl.io")
