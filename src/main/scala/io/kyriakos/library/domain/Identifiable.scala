@@ -1,4 +1,4 @@
-package io.otrl.library.domain
+package io.kyriakos.library.domain
 
 import scala.beans.BeanProperty
 
