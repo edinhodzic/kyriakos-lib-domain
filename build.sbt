@@ -4,7 +4,7 @@ organization := "io.kyriakos.library"
 
 name := "kyriakos-lib-domain"
 
-version := "0.5.0-SNAPSHOT"
+version := "1.0.0"
 
 scalaVersion := "2.11.7"
 
